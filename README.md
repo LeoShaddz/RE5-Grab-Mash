@@ -1,4 +1,4 @@
-# RE5-Grab-Mash
+# Resident Evil 5  Grab Mash
 
 When grabbed by an enemy, you normally have to press the 'A' and 'D' key or controller analog stick to break free. 
 
