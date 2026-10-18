@@ -4,7 +4,7 @@ This quality-of-life mod allows you to break free simply from a enemy grab by ho
 
 The glyph still shows a prompt to move the analog stick on controller or press A+D on the keyboard, but the mod works.
 
-# AI disclosure:
+# AI disclosure
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
 
 If you encounter any issues, feel free to contribute or even create your own version. Sorry for any problem.
