@@ -1,8 +1,8 @@
 # Resident Evil 5  Grab Mash
 
-When grabbed by an enemy, you normally have to press the 'A' and 'D' key or controller analog stick to break free. 
+This quality-of-life mod allows you to break free simply from a enemy grab by holding the 'F' key on your keyboard or the 'A' button on your controller. The keyboard key is customizable. 
 
-This quality-of-life mod allows you to break free simply by holding the 'F' key on your keyboard or the 'A' button on your controller. The keyboard key is customizable. Also works for quick-time events that require press the 'A' and 'D' key or rotating the analog stick like the QTEs for turning valves.
+The glyph still shows a prompt to move the analog stick on controller or press A+D on the keyboard, but the mod works.
 
 AI disclosure:
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
